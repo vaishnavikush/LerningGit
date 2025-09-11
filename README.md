@@ -1,3 +1,3 @@
-# LerningGit
+# LearningGit
 
 # This is my Gitfile
